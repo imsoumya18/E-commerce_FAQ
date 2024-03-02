@@ -12,8 +12,14 @@ This project leverages several powerful technologies to deliver an intelligent a
 
 * **LangChain**
 * **Gemini Pro**
-* **Streamlit**
 * **ChromaDB**
+* **Streamlit**
+
+
+<img align="left" src="https://github.com/imsoumya18/imsoumya18/blob/main/assets/langchain.png"  alt="LangChain"  height="42px">
+<img align="left" src="https://github.com/imsoumya18/imsoumya18/blob/main/assets/gemini.png"  alt="Gemini"  height="42px">
+<img align="left" src="https://github.com/imsoumya18/imsoumya18/blob/main/assets/chromadb.png"  alt="ChromaDB"  height="42px">
+<img src="https://github.com/imsoumya18/imsoumya18/blob/main/assets/streamlit.png"  alt="Streamlit"  height="42px">
 
 Any type of feedback is appreciated: soumyadeep184@gmail.com
 
