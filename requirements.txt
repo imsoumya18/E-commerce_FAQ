@@ -3,3 +3,4 @@ google-generativeai==0.3.2
 langchain==0.1.10
 langchain-google-genai==0.0.9
 streamlit==1.31.1
+pysqlite3-binary==0.5.2.post3
