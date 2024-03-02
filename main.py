@@ -1,14 +1,14 @@
 import streamlit as st
 from langchain_helper import create_vectordb, get_response
 
-# st.markdown("""
-# <style>
-#     #MainMenu
-#     {
-#         visibility: hidden;
-#     }
-# </style>
-# """, unsafe_allow_html=True)
+st.markdown("""
+<style>
+    #MainMenu
+    {
+        visibility: hidden;
+    }
+</style>
+""", unsafe_allow_html=True)
 st.markdown("""
 <footer>
   <p>Made by Soumya 🙋‍♂️</p>
