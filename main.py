@@ -15,10 +15,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 st.markdown("""
-<footer>
-  <p>Made by Soumya 🙋‍♂️</p>
-  <p><a href="mailto:hege@example.com">hege@example.com</a></p>
-</footer>
+Made with ❤ by [Soumya](https://github.com/imsoumya18)
 """, unsafe_allow_html=True)
 st.title("E-commerce FAQ 🛒")
 
