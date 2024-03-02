@@ -1,1 +1,1 @@
-# EdTech_FAQ
+# E-commerce_FAQ
