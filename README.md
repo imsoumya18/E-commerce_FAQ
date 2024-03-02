@@ -4,7 +4,7 @@
 
 An automated FAQ chatbot for an e-commerce platform.
 
-**Live site:** [ecommercefaq.streamlit.app](https://ecommercefaq.streamlit.app)
+**Live site: [ecommercefaq.streamlit.app](https://ecommercefaq.streamlit.app)**
 
 ##  Technology Stack
 
