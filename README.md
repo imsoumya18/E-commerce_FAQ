@@ -25,8 +25,7 @@ This project leverages several powerful technologies to deliver an intelligent a
 * **[Kaggle: Ecommerce-FAQ-Chatbot-Dataset [JSON]](https://www.kaggle.com/datasets/saadmakhdoom/ecommerce-faq-chatbot-dataset)**  
 * **[Kaggle: Ecommerce-FAQ-Chatbot-Dataset [CSV]](https://github.com/imsoumya18/E-commerce_FAQ/blob/main/Ecommerce_FAQs.csv)**
 
-The model is just for **demonstration purpose only**. It is trained using **only 80 Question - Answer pairs**. So, expecting it to answer any question other then used for training with high accuracy is not a good idea. You can [have a look at all the 80 questions](https://github.com/imsoumya18/E-commerce_FAQ/blob/main/Ecommerce_FAQs.csv) and ask something similar or combined of multiple questions.  
-<br>  
+The model is just for **demonstration purpose only**. It is trained using **only 80 Question - Answer pairs**. So, expecting it to answer any question other then used for training with high accuracy is not a good idea. You can [have a look at all the 80 questions](https://github.com/imsoumya18/E-commerce_FAQ/blob/main/Ecommerce_FAQs.csv) and ask something similar or combined of multiple questions.\
 e.g. ***"How can I create an account?"*** or,  
 <br>  
 ***"What payment methods do you accept?"*** or even,  
