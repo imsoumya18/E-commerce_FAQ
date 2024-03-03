@@ -21,7 +21,7 @@ This project leverages several powerful technologies to deliver an intelligent a
 <img align="left" src="https://github.com/imsoumya18/imsoumya18/blob/main/assets/chromadb.png"  alt="ChromaDB"  height="42px">  
 <img src="https://github.com/imsoumya18/imsoumya18/blob/main/assets/streamlit.png"  alt="Streamlit"  height="42px">  
   
-## Technology Stack  
+## Dataset
 * **[Kaggle: Ecommerce-FAQ-Chatbot-Dataset [JSON]](https://www.kaggle.com/datasets/saadmakhdoom/ecommerce-faq-chatbot-dataset)**  
 * **[Kaggle: Ecommerce-FAQ-Chatbot-Dataset [CSV]](https://github.com/imsoumya18/E-commerce_FAQ/blob/main/Ecommerce_FAQs.csv)**
 
