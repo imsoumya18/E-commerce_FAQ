@@ -15,7 +15,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 st.markdown("""
-Made with ❤️ by [Soumya](https://github.com/imsoumya18)
+Made with ❤️ by [Soumya](https://github.com/imsoumya18)\n
 Star ⭐ this repo on [GitHub](https://github.com/imsoumya18/E-commerce_FAQ)
 """, unsafe_allow_html=True)
 st.title("E-commerce FAQ 🛒")
